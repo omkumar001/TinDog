@@ -1,5 +1,5 @@
 # TinDog 
-It is the webpage made using only Bootstrap and CSS . Impelmented navbar from scratch and other HTML elements .
+It is the webpage made using only Bootstrap and CSS . Implemented navbar from scratch and other HTML elements .
 
 # Made use of -
 * Craousel
