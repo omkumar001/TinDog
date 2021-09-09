@@ -1,0 +1,20 @@
+<div id="carouselExampleControls" class="carousel slide" data-ride="false">
+  <div class="carousel-inner">
+    <div class="carousel-item active" style="background-color:orange;">
+      <img class="d-block w-100" src="..." alt="First slide">
+    </div>
+    <div class="carousel-item" style="background-color:red;">
+      <img class="d-block w-100" src="..." alt="Second slide">
+    </div>
+    <div class="carousel-item" style="background-color:blue;">
+      <img class="d-block w-100" src="..." alt="Third slide">
+    </div>
+  </div>
+  <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+  </a>
+  <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    
+  </a>
+</div>
